@@ -1,11 +1,11 @@
-<h1>Clarence DK<img src="https://i.pinimg.com/originals/4c/4f/68/4c4f684de3f549ed136e608f21ff4154.gif"
+<h1>Clarence Xass<img src="https://i.pinimg.com/originals/4c/4f/68/4c4f684de3f549ed136e608f21ff4154.gif"
 
 <p align="center">
     <img align="center" alt="PNG" src="https://i.pinimg.com/originals/4c/4f/68/4c4f684de3f549ed136e608f21ff4154.gif" />
   
-Link Facebook : https://www.facebook.com/Abal.Tor.Abbu.Irfan.Ariyan   
+Link Facebook : https://www.facebook.com/BAYJID.900
 
-# miraibot remake Clarence DK
+# miraibot remake Clarence Xass
 # If canvas error type to console or shell
 # +B1: npm i
 # +B2: npm i sqlite3
