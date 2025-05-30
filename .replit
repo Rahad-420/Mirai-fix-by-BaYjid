@@ -1,0 +1,66 @@
+run = "npm start"
+entrypoint = "main.sh"
+
+[[ports]]
+localPort = 34247
+externalPort = 3000
+
+[[ports]]
+localPort = 35439
+externalPort = 5173
+
+[[ports]]
+localPort = 35471
+externalPort = 3003
+
+[[ports]]
+localPort = 36537
+externalPort = 6800
+
+[[ports]]
+localPort = 36869
+externalPort = 80
+
+[[ports]]
+localPort = 37213
+externalPort = 8000
+
+[[ports]]
+localPort = 37903
+externalPort = 8080
+
+[[ports]]
+localPort = 38093
+externalPort = 4200
+
+[[ports]]
+localPort = 39009
+externalPort = 8081
+
+[[ports]]
+localPort = 41293
+externalPort = 8008
+
+[[ports]]
+localPort = 43201
+externalPort = 3002
+
+[[ports]]
+localPort = 43757
+externalPort = 8099
+
+[[ports]]
+localPort = 44791
+externalPort = 5000
+
+[[ports]]
+localPort = 45651
+externalPort = 6000
+
+[[ports]]
+localPort = 45859
+externalPort = 3001
+
+[[ports]]
+localPort = 46791
+externalPort = 9000
