@@ -1,14 +1,22 @@
-<h1>Clarence Xass<img src="https://i.pinimg.com/originals/4c/4f/68/4c4f684de3f549ed136e608f21ff4154.gif"
+<p align="center">
+  <img src="https://i.imgur.com/4Ldttfr.jpeg" width="250" style="border-radius: 15px;" alt="RAHAD BOT DP" />
+</p>
+
+<h1 align="center">
+  🔧💥 𝙍𝘼𝙃𝘼𝘿 - 𝘽𝙊𝙏 💥🔧
+</h1>
+
+<h3 align="center">
+  🧠 𝙋𝙀𝙍𝙎𝙊𝙉𝘼𝙇 𝙈𝙀𝙎𝙎𝙀𝙉𝙂𝙀𝙍 𝘽𝙊𝙏 𝘽𝙐𝙄𝙇𝙏 𝘽𝙔 ✨ <b>𝑹𝑨𝑯𝑨𝑫</b>
+</h3>
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://i.pinimg.com/originals/4c/4f/68/4c4f684de3f549ed136e608f21ff4154.gif" />
-  
-Link Facebook : https://www.facebook.com/BAYJID.900
+  <img src="https://img.shields.io/badge/MADE_BY-RAHAD-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/COUNTRY-BANGLADESH-0088ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEVEL-NOOB_PRO_DEV-blueviolet?style=for-the-badge" />
+</p>
 
-# miraibot remake Clarence Xass
-# If canvas error type to console or shell
-# +B1: npm i
-# +B2: npm i sqlite3
-# +B3: npm i canvas@2.9.0 
-# +B4: npm i simple-youtube-api ytdl-core 
-# +B5: npm start
+---
+
+<p align="center">
+  🌈✨ <b><i>𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙍𝘼𝙃𝘼𝘿 -𝙓𝘼𝙎𝙎 𝘽𝙊𝙏</i></b> ✨🌈<br>
